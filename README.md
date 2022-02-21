@@ -6,7 +6,7 @@
 - 👨‍💻 Aprendendo JS/HTML/CSS.
 - 🕵️‍♂️ Procurando estágio na área.
 
--->
+
 
 <div align="center">
   <a href="https://github.com/trev1z">
