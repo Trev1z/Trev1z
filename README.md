@@ -2,7 +2,9 @@
 
 
 
-- 📫 How to reach me: ...
+- 📫 Atualmente estudando Sistemas de Informação.
+- 👨‍💻 Aprendendo JS/HTML/CSS.
+- 🕵️‍♂️ Procurando estágio na área.
 
 -->
 
