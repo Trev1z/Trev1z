@@ -1,7 +1,7 @@
 ## Olá, me chamo Matheus Trevizani Barbosa
 
 
-- 📫 Atualmente estudando Sistemas de Informação.
+- 📫 Atualmente Cursando Sistemas de Informação.
 - 👨‍💻 Aprendendo JS/HTML/CSS.
 - 🕵️‍♂️ Procurando estágio na área.
 
