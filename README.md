@@ -3,7 +3,7 @@
 
 - 📫 Atualmente Cursando Sistemas de Informação.
 - 👨‍💻 Aprendendo JS/HTML/CSS.
-- 🕵️‍♂️ Procurando estágio na área.
+- 🕵️‍♂️ Estágio - TI - Autoglass
 
 
 <div align="center">
