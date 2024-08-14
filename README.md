@@ -2,7 +2,7 @@
 
 
 - 📫 Atualmente Cursando Sistemas de Informação.
-- 👨‍💻 Aprendendo JS/HTML/CS e C#.
+- 👨‍💻 Aprendendo JS/HTML/CS e C# e Php
 
 
 <div align="center">
